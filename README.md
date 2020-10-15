@@ -1,2 +1,2 @@
 # 3D-Renderer
-A Java 3D Renderer utilizing LWJGL.
+An OpenGL Java 3D Renderer utilizing LWJGL.
